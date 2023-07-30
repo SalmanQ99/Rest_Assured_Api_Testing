@@ -1,0 +1,4 @@
+com.sw.api.test.dto
+com.sw.api.test.runner
+com.sw.api.test.stepdefinitions
+com.sw.api.test.utility
