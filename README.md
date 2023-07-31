@@ -22,4 +22,4 @@ Running Tests:
 Open the project root directory in terminal. Run the below Maven command.
 mvn clean test
 Once the execution completes report will be generated in below folder.
-Report: test-output/SparkReport
+Report: target/SparkReport
